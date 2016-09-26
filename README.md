@@ -1,4 +1,4 @@
-# aartifactory-terraform
+# artifactory-terraform
 
 ## 
 
